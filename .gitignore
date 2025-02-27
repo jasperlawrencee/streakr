@@ -1,0 +1,6 @@
+# cache directory
+streakr/__pycache__/
+
+# app config json
+streak_config.json
+streak_data.json

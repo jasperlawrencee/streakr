@@ -1,0 +1,6 @@
+pynput>=1.7.6
+psutil>=5.9.0
+tkinter
+pyobjc-framework-Quartz>=9.0.1; sys_platform == 'darwin'  # For macOS
+pywin32>=305; sys_platform == 'win32'  # For Windows
+python-xlib>=0.33; sys_platform == 'linux'  # For Linux
